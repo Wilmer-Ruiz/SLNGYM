@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFF8621-28D6-4CC2-BAAF-2165A5DD9456}|Repositorio\\Repositorio.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\repositorio\\ilistasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFF8621-28D6-4CC2-BAAF-2165A5DD9456}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\ilistasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\entidades\\citaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\citaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\entidades\\trabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\trabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|c:\\profundizaci\u00F3n 1\\appgym\\slngym\\entidades\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CBB07-EBBA-48F2-84D4-286342BD602D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IListasRepositorio.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Repositorio\\IListasRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IListasRepositorio.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Repositorio\\IListasRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IListasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:29:56.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitaServicio.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\CitaServicio.cs",
+              "RelativeDocumentMoniker": "Entidades\\CitaServicio.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\CitaServicio.cs",
+              "RelativeToolTip": "Entidades\\CitaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:26:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Servicios.cs",
+              "RelativeDocumentMoniker": "Entidades\\Servicios.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Servicios.cs",
+              "RelativeToolTip": "Entidades\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:25:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:24:36.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trabajadores.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Trabajadores.cs",
+              "RelativeDocumentMoniker": "Entidades\\Trabajadores.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Trabajadores.cs",
+              "RelativeToolTip": "Entidades\\Trabajadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:15:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Citas.cs",
+              "DocumentMoniker": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Citas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Citas.cs",
+              "ToolTip": "C:\\Profundizaci\u00F3n 1\\APPGYM\\SLNGYM\\Entidades\\Citas.cs",
+              "RelativeToolTip": "Entidades\\Citas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:52:49.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
